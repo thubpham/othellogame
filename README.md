@@ -12,9 +12,9 @@ How to Play:
 5. The game ends when neither player can make a move. The player with the most pieces on the board wins!
 
 Features
-✅ Turn-based gameplay
-✅ Automatic piece flipping
-✅ Valid move detection
-✅ Score tracking
+1. Turn-based gameplay ✅
+2. Automatic piece flipping ✅
+3. Valid move detection ✅
+4. Score tracking ✅
 
 Enjoy the game! ♟️🎲
